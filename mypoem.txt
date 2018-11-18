@@ -1,9 +1,11 @@
-The rainbow
+The rainbow and the unicon
 puple 
 pink
 orange
 blue
 red
 green
+unicon
 yellow
+unicon
 these are the colors of rainbow.
